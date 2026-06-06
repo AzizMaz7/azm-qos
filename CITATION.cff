@@ -7,7 +7,7 @@ date-released: "06/06/2026"
 authors:
   - family-names: "Momin"
     given-names: "Abdul Aziz"
-repository-code: "https://github.com/AzizMaz7/"
+repository-code: "https://github.com/AzizMaz7/azm-qos"
 license: "BSD-3-Clause"
 keywords:
   - quantum computing
