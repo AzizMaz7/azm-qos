@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_0_stable_integrated_platform_package.zip",
+  "demo_estimates": 1,
+  "production_qec_estimates": 2,
+  "M_logical_exists": true,
+  "V_logical_exists": true,
+  "qec_dashboard_exists": true,
+  "cli_codes": {
+    "qec_demo": 0,
+    "production_qec_estimate": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

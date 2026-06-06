@@ -1,0 +1,22 @@
+{
+  "title": "AZM-QOS: A Quantum Observable Simulation and QEC-Aware Research Workflow Platform",
+  "version": "5.0.0",
+  "upload_type": "software",
+  "description": "AZM-QOS is a Python-based research software platform for generalized quantum observable simulation workflows, QEC-aware logical estimators, hardware-result synchronization, reproducibility exports, and manuscript/thesis scaffolding.",
+  "creators": [
+    {
+      "name": "Maaz, Abdul Aziz",
+      "affiliation": "Texas Tech University"
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "quantum computing",
+    "variational quantum simulation",
+    "quantum error correction",
+    "END/VQS",
+    "research software"
+  ],
+  "access_right": "open",
+  "notes": "Draft metadata. Update after advisor approval and before Zenodo publication."
+}

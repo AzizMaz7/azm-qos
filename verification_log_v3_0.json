@@ -1,0 +1,12 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v2_9_job_synchronization_package.zip",
+  "project_config_exists": true,
+  "plugin_count": 5,
+  "artifact_count": 21,
+  "final_archive_exists": true,
+  "cli_codes": {
+    "app_init": 0,
+    "app_report": 0,
+    "app_run": 0
+  }
+}

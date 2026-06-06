@@ -1,0 +1,15 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_9_derivative_error_mitigation_package.zip",
+  "config_created": true,
+  "stable_steps": 8,
+  "stable_artifacts": 23,
+  "stable_manifest_exists": true,
+  "stable_archive_exists": true,
+  "smoke_manifest_exists": true,
+  "cli_codes": {
+    "stable_smoke_test": 0,
+    "stable_run": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

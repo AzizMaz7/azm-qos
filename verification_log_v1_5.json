@@ -1,0 +1,14 @@
+{
+  "decoder_benchmark_points": 2,
+  "failure_rates": [
+    0.0,
+    0.0
+  ],
+  "pipeline_M_shape": [
+    2,
+    2
+  ],
+  "pipeline_V_shape": [
+    2
+  ]
+}

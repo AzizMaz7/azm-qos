@@ -1,0 +1,15 @@
+{
+  "repeated_rounds": 3,
+  "majority_syndrome": {
+    "S_ZZI": 0,
+    "S_IZZ": 0
+  },
+  "decoder_correction": "I",
+  "pipeline_M_shape": [
+    2,
+    2
+  ],
+  "pipeline_V_shape": [
+    2
+  ]
+}

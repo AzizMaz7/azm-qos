@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_9_release_polish_package.zip",
+  "version": "5.0.0",
+  "public_release_manifest_exists": true,
+  "api_reference_exists": true,
+  "docs_site_exists": true,
+  "validation_ok": true,
+  "cli_codes": {
+    "public_release_info": 0,
+    "public_release_validate": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

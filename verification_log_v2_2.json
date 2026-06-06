@@ -1,0 +1,8 @@
+{
+  "shot_scaling_points": 2,
+  "publication_artifact_count": 13,
+  "figures_dir": "/mnt/data/AZM_QOS_v2_2/outputs/verification_publication_package/figures",
+  "tables_dir": "/mnt/data/AZM_QOS_v2_2/outputs/verification_publication_package/tables",
+  "captions_dir": "/mnt/data/AZM_QOS_v2_2/outputs/verification_publication_package/captions",
+  "manifest_exists": true
+}

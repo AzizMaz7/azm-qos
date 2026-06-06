@@ -1,0 +1,7 @@
+{
+  "test_v5_0_public_release_returncode": 0,
+  "test_ok": true,
+  "stdout_tail": "utputs/test_v5_0_cli_info/public_release_manifest.json\napi_reference: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_info/api_reference.md\ndocs_site: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_info/docs_site\npaper_reproduction_index: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_info/paper_reproduction_index.md\nscaffold_label_cleanup_report: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_info/scaffold_label_cleanup_report.md\ncitation_metadata: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_info/CITATION.cff.json\npublic_release_summary: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_info/public_release_summary.md\nvalidation_report: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_validate/public_release_validation.md\nvalidation_json: /mnt/data/AZM_QOS_clean_repository_v5_0/outputs/test_v5_0_cli_validate/public_release_validation.json\nok: True\nAll v5.0 public release tests passed.\n",
+  "stderr_tail": "",
+  "suspicious_private_files_found": []
+}

@@ -1,0 +1,12 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_0_integrated_research_app_package.zip",
+  "plan_items": 6,
+  "artifact_count": 17,
+  "production_archive_exists": true,
+  "dashboard_html_exists": true,
+  "cli_codes": {
+    "production_init": 0,
+    "production_plan": 0,
+    "production_run": 0
+  }
+}

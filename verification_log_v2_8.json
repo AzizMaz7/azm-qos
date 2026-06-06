@@ -1,0 +1,10 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v2_7_experiment_database_package.zip",
+  "records_count": 2,
+  "artifact_count": 14,
+  "dashboard_html_exists": true,
+  "artifact_browser_exists": true,
+  "trend_points": 2,
+  "backend_history_entries": 1,
+  "cli_code": 0
+}

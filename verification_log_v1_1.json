@@ -1,0 +1,12 @@
+{
+  "registry_json_roundtrip": "passed",
+  "template_load": "passed",
+  "M_shape": [
+    2,
+    2
+  ],
+  "V_shape": [
+    2
+  ],
+  "workload_count": 6
+}

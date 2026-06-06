@@ -1,0 +1,19 @@
+from pathlib import Path
+import sys
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from azmqos_research import run_mock_hardware_comparison
+
+print("AZM-QOS v2.4 Hardware Comparison Report Demo")
+print("=" * 70)
+
+out_dir = ROOT / "outputs" / "hardware_comparison_report_demo"
+result = run_mock_hardware_comparison(out_dir)
+
+print(result.summary())
+print()
+print("Artifacts:")
+for key, value in result.artifacts.items():
+    print(f"  {key}: {value}")

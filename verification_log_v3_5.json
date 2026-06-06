@@ -1,0 +1,11 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_4_pauli_circuit_compiler_package.zip",
+  "verification_component_groups": 2,
+  "production_components_estimated": 6,
+  "artifact_count": 16,
+  "M_table_exists": true,
+  "V_table_exists": true,
+  "dashboard_html_exists": true,
+  "cli_code": 0,
+  "v3_4_test_fixed_returncode": 0
+}

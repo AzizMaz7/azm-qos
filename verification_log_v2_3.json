@@ -1,0 +1,8 @@
+{
+  "diagnostics_qiskit_installed": false,
+  "diagnostics_runtime_installed": false,
+  "service_constructed": false,
+  "dry_run_status": "dry_run",
+  "report_exists": true,
+  "cli_code": 0
+}

@@ -1,0 +1,6 @@
+{
+  "circuit_noise_spec": "passed",
+  "scaffold_syndrome_probability": 0.04440250000000001,
+  "comparison_points": 5,
+  "qiskit_aer_noise_available": false
+}

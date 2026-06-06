@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_4_hardware_ready_qec_transpilation_package.zip",
+  "demo_comparisons": 4,
+  "production_comparisons": 4,
+  "sync_comparisons_exists": true,
+  "counts_records_exists": true,
+  "sync_dashboard_exists": true,
+  "cli_codes": {
+    "qec_hardware_sync_demo": 0,
+    "production_qec_hardware_sync": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

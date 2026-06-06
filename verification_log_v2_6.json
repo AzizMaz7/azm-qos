@@ -1,0 +1,12 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v2_5_final_validated_package.zip",
+  "binomial_se_0p5_100": 0.05,
+  "wilson_50_100": {
+    "lower": 0.4038315303659956,
+    "upper": 0.5961684696340044
+  },
+  "counts_uncertainty_shots": 100,
+  "bootstrap_expectation_estimate": 0.0,
+  "artifact_count": 9,
+  "cli_code": 0
+}

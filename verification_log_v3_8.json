@@ -1,0 +1,13 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_7_endvqs_state_preparation_package.zip",
+  "demo_derivatives": 2,
+  "production_derivatives": 8,
+  "M_derivatives_exists": true,
+  "V_derivatives_exists": true,
+  "comparison_figure_exists": true,
+  "cli_codes": {
+    "derivative_demo": 0,
+    "production_derivatives": 0
+  },
+  "test_returncode": 0
+}

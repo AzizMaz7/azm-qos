@@ -1,0 +1,13 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_5_production_pauli_execution_package.zip",
+  "qiskit_available": false,
+  "verification_component_groups": 2,
+  "production_components_estimated": 2,
+  "dry_run_components": 1,
+  "artifact_count": 19,
+  "M_table_exists": true,
+  "V_table_exists": true,
+  "dashboard_html_exists": true,
+  "cli_code": 0,
+  "test_returncode": 0
+}

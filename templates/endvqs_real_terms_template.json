@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source": "AZM-QOS v1.1 template",
+    "replace_with": "Insert your derived END/VQS Pauli decompositions here.",
+    "components_expected": [
+      "Mbb",
+      "Mab",
+      "Maa",
+      "Va",
+      "Vb"
+    ]
+  },
+  "components": [
+    {
+      "name": "Mbb_00_real",
+      "quantity": "M",
+      "indices": [
+        0,
+        0
+      ],
+      "description": "Replace with real Mbb(0,0).",
+      "metadata": {
+        "component_family": "Mbb"
+      },
+      "terms": [
+        {
+          "label": "replace_Mbb_00_term_1",
+          "pauli": "ZI",
+          "coeff_real": 1.0,
+          "coeff_imag": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Mab_01_real",
+      "quantity": "M",
+      "indices": [
+        0,
+        1
+      ],
+      "description": "Replace with real Mab(0,1).",
+      "metadata": {
+        "component_family": "Mab"
+      },
+      "terms": [
+        {
+          "label": "replace_Mab_01_term_1",
+          "pauli": "XX",
+          "coeff_real": -0.5,
+          "coeff_imag": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Mab_10_real",
+      "quantity": "M",
+      "indices": [
+        1,
+        0
+      ],
+      "description": "Replace with real Mab(1,0).",
+      "metadata": {
+        "component_family": "Mab"
+      },
+      "terms": [
+        {
+          "label": "replace_Mab_10_term_1",
+          "pauli": "XX",
+          "coeff_real": -0.5,
+          "coeff_imag": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Maa_11_real",
+      "quantity": "M",
+      "indices": [
+        1,
+        1
+      ],
+      "description": "Replace with real Maa(1,1).",
+      "metadata": {
+        "component_family": "Maa"
+      },
+      "terms": [
+        {
+          "label": "replace_Maa_11_term_1",
+          "pauli": "IZ",
+          "coeff_real": 1.0,
+          "coeff_imag": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Va_0_real",
+      "quantity": "V",
+      "indices": [
+        0
+      ],
+      "description": "Replace with real Va(0).",
+      "metadata": {
+        "component_family": "Va"
+      },
+      "terms": [
+        {
+          "label": "replace_Va_0_term_1",
+          "pauli": "XX",
+          "coeff_real": 0.75,
+          "coeff_imag": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Vb_1_real",
+      "quantity": "V",
+      "indices": [
+        1
+      ],
+      "description": "Replace with real Vb(1).",
+      "metadata": {
+        "component_family": "Vb"
+      },
+      "terms": [
+        {
+          "label": "replace_Vb_1_term_1",
+          "pauli": "YY",
+          "coeff_real": -0.25,
+          "coeff_imag": 0.0
+        }
+      ]
+    }
+  ]
+}

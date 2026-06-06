@@ -1,0 +1,10 @@
+{
+  "detector_error_model_instructions": 11,
+  "detectors": 6,
+  "matching_benchmark_points": 2,
+  "pipeline_M_shape": [
+    2,
+    2
+  ],
+  "pipeline_model_instructions": 11
+}

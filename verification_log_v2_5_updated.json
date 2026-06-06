@@ -1,0 +1,13 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v2_4_updated_hardware_comparison_ibm_results_package.zip",
+  "flexible_ibm_results_parser_preserved": {
+    "00": 5,
+    "11": 7
+  },
+  "mitigated_probability_sum": 1.0,
+  "zne_zero_noise_value": 0.986666666666667,
+  "raw_tvd": 0.0625,
+  "mitigated_tvd": 0.0107421875,
+  "artifact_count": 11,
+  "cli_code": 0
+}

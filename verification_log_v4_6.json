@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_5_hardware_result_sync_package.zip",
+  "demo_fetch_records": 4,
+  "production_fetch_records": 4,
+  "runtime_fetch_records_exists": true,
+  "runtime_cache_exists": true,
+  "runtime_dashboard_exists": true,
+  "cli_codes": {
+    "runtime_fetch_demo": 0,
+    "production_runtime_sync": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

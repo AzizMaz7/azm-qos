@@ -1,0 +1,22 @@
+{
+  "created_at_unix": 1780760538.973242,
+  "source_package": "/mnt/data/AZM_QOS_v5_0_stable_public_research_release_package.zip",
+  "repo_root": "/mnt/data/AZM_QOS_clean_repository_v5_0",
+  "file_count": 507,
+  "suspicious_private_files_found": [],
+  "added_files": [
+    ".gitignore",
+    "LICENSE",
+    "CITATION.cff",
+    ".zenodo.json",
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "CODE_OF_CONDUCT.md",
+    ".github/workflows/ci.yml",
+    ".github/workflows/release-smoke.yml",
+    "docs/PRIVATE_RELEASE_WORKFLOW.md",
+    "docs/PUBLIC_RELEASE_CHECKLIST.md",
+    "docs/SENSITIVE_FILES_POLICY.md"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "logical_mapping": "passed",
+  "physical_max_pauli_length": 2,
+  "logical_max_pauli_length": 6,
+  "encoded_workloads": 6,
+  "M_shape": [
+    2,
+    2
+  ],
+  "V_shape": [
+    2
+  ]
+}

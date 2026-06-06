@@ -1,0 +1,29 @@
+{
+  "project_name": "azmqos_research_project",
+  "azmqos_version": "3.0.0",
+  "description": "Integrated AZM-QOS project configuration.",
+  "output_dir": "outputs/azmqos_project",
+  "workflow": {
+    "mode": "mock",
+    "run_local_research": true,
+    "run_mitigation": true,
+    "run_uncertainty": true,
+    "run_sync": true,
+    "build_dashboard": true,
+    "export_manuscript": true,
+    "create_final_archive": true
+  },
+  "hardware": {
+    "submit_real_jobs": false,
+    "backend_name": null,
+    "job_id": null,
+    "shots": 1024
+  },
+  "simulator_counts": {
+    "00": 510,
+    "11": 514
+  },
+  "metadata": {
+    "notes": "Use this template as a safe starting point."
+  }
+}

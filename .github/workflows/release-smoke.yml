@@ -1,0 +1,25 @@
+name: Release Smoke Check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  release-smoke:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Validate public release
+        run: |
+          azmqos public-release-info --output-dir outputs/public_release_info
+          azmqos public-release-validate --output-dir outputs/public_release_validate

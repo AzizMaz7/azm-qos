@@ -1,0 +1,46 @@
+{
+  "project_name": "endvqs_production_project",
+  "azmqos_version": "3.1.0",
+  "description": "END/VQS production-run configuration.",
+  "output_dir": "outputs/endvqs_production_project",
+  "component_registry_path": "templates/endvqs_real_terms_template.json",
+  "term_registry_path": null,
+  "observable_selection": {
+    "families": [
+      "Mbb",
+      "Mab",
+      "Maa",
+      "Va",
+      "Vb"
+    ],
+    "include_quantities": [
+      "M",
+      "V"
+    ],
+    "exclude_component_names": [],
+    "max_components": null
+  },
+  "execution_policy": {
+    "mode": "simulator",
+    "backend_name": null,
+    "shots": 1024,
+    "repeats": 10,
+    "allow_hardware_submit": false,
+    "optimization_level": 1
+  },
+  "queue_policy": {
+    "max_jobs_per_batch": 3,
+    "poll_interval_seconds": 60,
+    "auto_resume": true,
+    "fail_fast": false
+  },
+  "manuscript": {
+    "title": "END/VQS Quantum Algorithm Production Results",
+    "author": "AZM-QOS",
+    "include_bibtex": true,
+    "include_figures": true
+  },
+  "metadata": {
+    "notes": "Safe production template. Replace component registry terms with real derived END/VQS terms before scientific use."
+  }
+}

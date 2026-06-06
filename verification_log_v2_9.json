@@ -1,0 +1,9 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v2_8_dashboard_multirun_package.zip",
+  "sync_results": 1,
+  "primary_action": "retrieved_counts",
+  "failure_action": "terminal_failure_detected",
+  "pending_action": "still_pending",
+  "dashboard_artifacts": 18,
+  "cli_code": 0
+}

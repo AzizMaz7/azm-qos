@@ -1,0 +1,11 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v2_4_hardware_simulator_comparison_package.zip",
+  "ibm_results_helper": "included",
+  "parsed_counts": {
+    "00": 5,
+    "11": 7
+  },
+  "counts_tvd": 0.19999999999999998,
+  "mock_report_artifacts": 6,
+  "mock_report_manifest_exists": true
+}

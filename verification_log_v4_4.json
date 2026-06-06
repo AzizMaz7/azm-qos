@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_3_fault_tolerant_syndrome_package.zip",
+  "demo_job_manifests": 4,
+  "production_job_manifests": 4,
+  "resource_summaries_exists": true,
+  "job_manifests_exists": true,
+  "hardware_dashboard_exists": true,
+  "cli_codes": {
+    "qec_hardware_demo": 0,
+    "production_qec_hardware_dry_run": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

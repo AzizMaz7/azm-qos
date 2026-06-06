@@ -1,0 +1,13 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_8_derivative_estimators_package.zip",
+  "demo_mitigated_derivatives": 2,
+  "production_mitigated_derivatives": 8,
+  "M_mitigated_exists": true,
+  "V_mitigated_exists": true,
+  "comparison_figure_exists": true,
+  "cli_codes": {
+    "derivative_mitigation_demo": 0,
+    "production_mitigated_derivatives": 0
+  },
+  "test_returncode": 0
+}

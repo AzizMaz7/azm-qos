@@ -1,0 +1,15 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_6_ibm_runtime_fetch_adapters_package.zip",
+  "demo_total_records": 4,
+  "production_total_records": 4,
+  "count_intervals": 8,
+  "failure_bands": 4,
+  "archive_exists": true,
+  "dashboard_exists": true,
+  "cli_codes": {
+    "hardware_analysis_demo": 0,
+    "production_hardware_analysis": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

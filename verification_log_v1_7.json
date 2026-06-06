@@ -1,0 +1,12 @@
+{
+  "counts_to_syndrome_bit": "passed",
+  "circuit_syndrome_rounds": 3,
+  "decoder_sweep_points": 2,
+  "pipeline_M_shape": [
+    2,
+    2
+  ],
+  "pipeline_V_shape": [
+    2
+  ]
+}

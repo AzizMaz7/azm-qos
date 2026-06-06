@@ -1,0 +1,15 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_7_hardware_analysis_archive_package.zip",
+  "demo_figures": 3,
+  "production_figures": 3,
+  "latex_manuscript_exists": true,
+  "thesis_appendix_exists": true,
+  "version_lockfile_exists": true,
+  "final_archive_exists": true,
+  "cli_codes": {
+    "final_export_demo": 0,
+    "production_final_export": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

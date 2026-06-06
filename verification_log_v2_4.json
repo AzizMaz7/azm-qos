@@ -1,0 +1,10 @@
+{
+  "parsed_counts": {
+    "00": 4,
+    "11": 6
+  },
+  "counts_tvd": 0.19999999999999998,
+  "artifact_count": 6,
+  "manifest_exists": true,
+  "cli_code": 0
+}

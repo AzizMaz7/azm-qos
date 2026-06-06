@@ -1,0 +1,32 @@
+{
+  "electronic": {
+    "alpha": [
+      0.1,
+      -0.2
+    ],
+    "beta": [
+      0.05,
+      0.12
+    ],
+    "entangler_strength": 0.15
+  },
+  "nuclear": {
+    "p": [
+      0.2,
+      -0.1
+    ],
+    "q": [
+      0.15,
+      0.25
+    ],
+    "scale": 1.0
+  },
+  "layout": {
+    "n_electronic_qubits": 2,
+    "n_nuclear_qubits": 2,
+    "n_ancilla_qubits": 0
+  },
+  "metadata": {
+    "description": "Safe END/VQS parameter template for state-preparation hooks."
+  }
+}

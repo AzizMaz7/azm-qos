@@ -1,0 +1,11 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_1_endvqs_production_config_package.zip",
+  "plan_items": 6,
+  "workloads": 6,
+  "simulator_results": 6,
+  "hardware_dry_run_results": 6,
+  "artifact_count": 16,
+  "execution_manifest_exists": true,
+  "dashboard_html_exists": true,
+  "cli_code": 0
+}

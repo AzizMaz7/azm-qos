@@ -1,0 +1,42 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v2_6_uncertainty_statistics_package.zip",
+  "records": 2,
+  "summary": {
+    "by_type": {
+      "simulator": 1,
+      "hardware": 1
+    },
+    "by_status": {
+      "completed": 2
+    },
+    "by_backend": {
+      "mock_ibm_backend": 1
+    },
+    "metrics": {
+      "expectation": {
+        "count": 2,
+        "min": 0.875,
+        "max": 1.0,
+        "mean": 0.9375
+      },
+      "shots": {
+        "count": 2,
+        "min": 1024.0,
+        "max": 1024.0,
+        "mean": 1024.0
+      },
+      "tvd": {
+        "count": 1,
+        "min": 0.0625,
+        "max": 0.0625,
+        "mean": 0.0625
+      }
+    }
+  },
+  "artifacts": {
+    "run_table_csv": "/mnt/data/AZM_QOS_v2_7/outputs/verification_v2_7_database/run_table.csv",
+    "dashboard_json": "/mnt/data/AZM_QOS_v2_7/outputs/verification_v2_7_database/dashboard.json",
+    "markdown_report": "/mnt/data/AZM_QOS_v2_7/outputs/verification_v2_7_database/run_database_report.md"
+  },
+  "cli_code": 0
+}

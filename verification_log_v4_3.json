@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_2_qec_decoder_syndrome_package.zip",
+  "demo_ft_components": 1,
+  "production_ft_components": 2,
+  "M_ft_exists": true,
+  "V_ft_exists": true,
+  "ft_dashboard_exists": true,
+  "cli_codes": {
+    "ft_qec_demo": 0,
+    "production_ft_qec": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

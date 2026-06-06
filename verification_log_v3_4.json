@@ -1,0 +1,11 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_3_real_simulator_backend_package.zip",
+  "verification_terms": 3,
+  "verification_groups": 2,
+  "demo_terms": 5,
+  "demo_groups": 3,
+  "demo_measurement_circuits": 3,
+  "demo_hadamard_tests": 5,
+  "manifest_exists": true,
+  "cli_code": 0
+}

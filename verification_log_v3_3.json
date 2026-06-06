@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v3_2_production_execution_adapters_package.zip",
+  "workloads": 6,
+  "fallback_counts_sum": 128,
+  "comparisons": 6,
+  "artifact_count": 15,
+  "simulator_manifest_exists": true,
+  "shot_scaling_points": 12,
+  "shot_scaling_manifest_exists": true,
+  "cli_codes": {
+    "production_simulate": 0,
+    "production_shot_scaling": 0
+  }
+}

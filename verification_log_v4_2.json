@@ -1,0 +1,14 @@
+{
+  "source_zip": "/mnt/data/AZM_QOS_v4_1_initial_qec_logical_extension_package.zip",
+  "demo_decoded_estimates": 1,
+  "production_decoded_estimates": 2,
+  "M_decoded_exists": true,
+  "V_decoded_exists": true,
+  "decoder_dashboard_exists": true,
+  "cli_codes": {
+    "qec_decoder_demo": 0,
+    "production_qec_decode": 0
+  },
+  "test_returncode": 0,
+  "readme_contains_production_init": true
+}

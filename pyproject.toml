@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "azmqos"
+version = "5.0.0"
+description = "General-purpose quantum workload operating layer as a stable public research release"
+authors = [{name = "Abdul Aziz Maaz"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.22"]
+
+[project.optional-dependencies]
+qiskit = ["qiskit", "qiskit-aer"]
+ibm = ["qiskit", "qiskit-aer", "qiskit-ibm-runtime"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["azmqos*", "azmqos_endvqs*", "azmqos_qec*", "azmqos_pipeline*", "azmqos_logical*", "azmqos_research*"]
+
+[project.scripts]
+azmqos = "azmqos_research.cli:main"

@@ -1,0 +1,10 @@
+{
+  "detector_graph_nodes": 6,
+  "detector_graph_edges": 11,
+  "matching_pairs": 1,
+  "pipeline_M_shape": [
+    2,
+    2
+  ],
+  "pipeline_detector_nodes": 6
+}
