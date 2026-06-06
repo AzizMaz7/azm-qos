@@ -22,7 +22,7 @@ If you use AZM-QOS in academic work, please cite the archived software release:
   version = {5.0.0},
   year    = {2026},
   doi     = {10.5281/zenodo.20572833},
-  url     = {https://github.com/YOUR_USERNAME/azm-qos}
+  url     = {https://github.com/AzizMaz7/azm-qos}
 }
 ````
 
