@@ -4,6 +4,28 @@
 
 It keeps the v4.9 one-command workflow and adds public-release quality artifacts: semantic versioning metadata, a public API reference scaffold, a documentation-site scaffold, paper-reproduction examples, a scaffold-label cleanup report, and public-release validation.
 
+````markdown
+# AZM-QOS
+
+**AZM-QOS** is a research software platform for generalized quantum observable simulation workflows, END/VQS-style estimator construction, QEC-aware logical estimators, hardware-result synchronization, hardware-analysis reports, and reproducible manuscript/thesis export.
+
+[![DOI](https://zenodo.org/badge/1261397835.svg)](https://doi.org/10.5281/zenodo.20572832)
+
+## Citation
+
+If you use AZM-QOS in academic work, please cite the archived software release:
+
+```bibtex
+@software{maaz_azmqos_2026,
+  author  = {Momin, Abdul Aziz},
+  title   = {{AZM-QOS: A Quantum Observable Simulation and QEC-Aware Research Workflow Platform}},
+  version = {5.0.0},
+  year    = {2026},
+  doi     = {10.5281/zenodo.20572833},
+  url     = {https://github.com/YOUR_USERNAME/azm-qos}
+}
+````
+
 ## Install
 
 ```bash
