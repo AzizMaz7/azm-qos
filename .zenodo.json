@@ -10,13 +10,17 @@
     }
   ],
   "license": "BSD-3-Clause",
+  "access_right": "open", 
+  "language": "eng",
   "keywords": [
     "quantum computing",
     "variational quantum simulation",
     "quantum error correction",
     "END/VQS",
-    "research software"
+    "quantum observable simulation",
+    "QISKIT",
+    "research software",
+    "hardware synchronization"
   ],
-  "access_right": "open",
-  "notes": "Draft metadata. Update after advisor approval and before Zenodo publication."
+  "notes": "Synthetic and scaffold outputs are intended for workflow validation. Real hardware claims require imported or fetched Runtime job results and backend calibration metadata."
 }
