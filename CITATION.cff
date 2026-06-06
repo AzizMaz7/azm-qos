@@ -2,12 +2,12 @@ cff-version: 1.2.0
 message: "If you use AZM-QOS in academic work, please cite the associated software release and related manuscript when available."
 title: "AZM-QOS: A Quantum Observable Simulation and QEC-Aware Research Workflow Platform"
 version: "5.0.0"
-doi: "TBD-after-Zenodo-release"
-date-released: "TBD"
+doi: "10.5281/zenodo.20572833"
+date-released: "06/06/2026"
 authors:
-  - family-names: "Maaz"
+  - family-names: "Momin"
     given-names: "Abdul Aziz"
-repository-code: "TBD-private-github-url"
+repository-code: "https://github.com/AzizMaz7/"
 license: "BSD-3-Clause"
 keywords:
   - quantum computing
