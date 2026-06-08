@@ -17,12 +17,13 @@ If you use AZM-QOS in academic work, please cite the archived software release:
 
 ```bibtex
 @software{maaz_azmqos_2026,
-  author  = {Momin, Abdul Aziz},
-  title   = {{AZM-QOS: A Quantum Observable Simulation and QEC-Aware Research Workflow Platform}},
-  version = {5.0.0},
-  year    = {2026},
-  doi     = {10.5281/zenodo.20572833},
-  url     = {https://github.com/AzizMaz7/azm-qos}
+  author   = {Momin, Abdul Aziz},
+  title    = {{AZM-QOS: A Quantum Observable Simulation and QEC-Aware Research Workflow Platform}},
+  version  = {5.0.0},
+  year     = {2026},
+  doi      = {10.5281/zenodo.20572833},
+  orcid id = https://orcid.org/0000-0002-6957-7874
+  url      = {https://github.com/AzizMaz7/azm-qos}
 }
 ````
 
