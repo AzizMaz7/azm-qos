@@ -9,7 +9,7 @@ It keeps the v4.9 one-command workflow and adds public-release quality artifacts
 
 **AZM-QOS** is a research software platform for generalized quantum observable simulation workflows, END/VQS-style estimator construction, QEC-aware logical estimators, hardware-result synchronization, hardware-analysis reports, and reproducible manuscript/thesis export.
 
-![DOI](https://zenodo.org/badge/1261397835.svg)(https://doi.org/10.5281/zenodo.20572832)
+[![DOI](https://zenodo.org/badge/1261397835.svg)](https://doi.org/10.5281/zenodo.20572832)
 
 ## Citation
 
