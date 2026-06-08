@@ -3,6 +3,7 @@ message: "If you use AZM-QOS in academic work, please cite the associated softwa
 title: "AZM-QOS: A Quantum Observable Simulation and QEC-Aware Research Workflow Platform"
 version: "5.0.0"
 doi: "10.5281/zenodo.20572833"
+orcid id: https://orcid.org/0000-0002-6957-7874
 date-released: "06/06/2026"
 authors:
   - family-names: "Momin"
